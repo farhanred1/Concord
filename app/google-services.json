@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816880207518",
+    "project_id": "concord-a287b",
+    "storage_bucket": "concord-a287b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816880207518:android:cb37b1323dfda8908f5d8f",
+        "android_client_info": {
+          "package_name": "sp.com.concord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816880207518-ri222co70qo6n15ocjdjflohtce7dbam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxhz-9xedM1uwAWSc_bSuSVTPVHK-7Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816880207518-ri222co70qo6n15ocjdjflohtce7dbam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
